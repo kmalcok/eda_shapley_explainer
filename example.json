@@ -1,0 +1,22 @@
+{
+  "target": [
+    "class"
+  ],
+  "numeric": [
+    "Current Ratio",
+    "Quick Ratio",
+    "Cash Ratio",
+    "Gross Margin",
+    "Operating Margin",
+    "Net Profit Margin",
+    "Return on Assets",
+    "Return on Equity"
+  ],
+  "categorical": [
+    "Symbol",
+    "Name",
+    "Sector",
+    "Industry"
+  ],
+  "model": "XGBoost"
+}

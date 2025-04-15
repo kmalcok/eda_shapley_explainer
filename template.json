@@ -1,0 +1,12 @@
+{
+  "target": [
+    "column name"
+  ],
+  "numeric": [
+    "column list"
+  ],
+  "categorical": [
+    "column list"
+  ],
+  "model": "modelType"
+}
